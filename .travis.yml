@@ -10,7 +10,7 @@ before_script:
   - yarn global add firebase-tools
 
 script :
-  - firebase deploy --token "$FIREBASE_TOKEN" --only functions
+  - firebase deploy --token "$FIREBASE_TOKEN"
 after_success:  
 
 notifications:
