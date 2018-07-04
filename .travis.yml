@@ -7,9 +7,10 @@ branches:
     - master
 
 before_script:
+  - yarn global add firebase-tools
 
 script :
-  - firebase deploy --token "$FIREBASE_TOKEN"
+  - firebase deploy --token "$FIREBASE_TOKEN" --only functions
 after_success:  
 
 notifications:
