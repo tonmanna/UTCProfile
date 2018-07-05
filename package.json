@@ -1,0 +1,22 @@
+{
+  "name": "utcprofile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server ./public"
+  },
+  "dependencies": {
+    "live-server": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonmanna/UTCProfile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonmanna/UTCProfile/issues"
+  },
+  "homepage": "https://github.com/tonmanna/UTCProfile#readme"
+}
