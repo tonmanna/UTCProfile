@@ -29,7 +29,7 @@
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="/Frontend_Developer/worawut_boontan.html">Worawut Boontan</a>
-			  <a class="dropdown-item" href="/Frontend_Developer/arthit_intaket.html">Arthit Intaket</a>
+			  <a class="dropdown-item" href="/Frontend_Developer/arthit_intaket.html">Worawut Boontan</a>
             </div>
           </li>
           <li class="nav-item dropdown">
